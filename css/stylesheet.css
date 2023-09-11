@@ -23,19 +23,20 @@ h1 {
     font-weight: 600;
 }
 
-p {
+p,
+.time {
     color: var(--soft-blue);
     font-size: 1.1250em;
     font-weight: 300;
 }
 
-span.eth {
+.eth {
     color: var(--cyan);
-    font-weight: 400;
 }
 
 p,
-h1 {
+h1,
+.label {
     margin: 0;
     font-family: Outfit, sans-serif;
 }
@@ -84,16 +85,32 @@ h1 {
     cursor: pointer;
 }
 
-#parent .card .card-content .card-info p {
-    display: flex;
-    justify-content: space-between;
-}
-
 #parent .card,
 #parent .card .card-content {
     display: flex;
     flex-direction: column;
     gap: 15px;
+}
+
+#parent .card .card-content .card-info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon-label-container {
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    width: auto;
+    height: auto;
+    margin-right: 2px;
+    vertical-align: middle;
+}
+
+.label {
+    vertical-align: middle;
 }
 
 #parent hr {

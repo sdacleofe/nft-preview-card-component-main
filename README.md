@@ -27,24 +27,24 @@ Users should be able to:
 
 ## Desktop Preview
 
-![](./screenshot.jpg)
+![](./design/desktop-preview-f.png)
 
 ## Desktop Preview States
 
-![](./screenshot.jpg)
+![](./design/desktop-preview-states-f.png)
 
 ## Mobile Preview
 
-![](./screenshot.jpg)
+![](./design/mobile-preview.png)
 
 ## Mobile Preview States
 
-![](./screenshot.jpg)
+![](./design/mobile-preview-states-f.png)
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [NFT Preview Card](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-solution-j1BmazE3yb)
+- Live Site URL: [NFT Preview Card](https://sdacleofe.github.io/nft-preview-card-component-main/)
 
 ## My process
 
